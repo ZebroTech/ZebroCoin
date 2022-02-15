@@ -35,7 +35,7 @@ BitcoinTalk: https://bitcointalk.org/index.php?topic=5357796
 # Socials
 Twitter: https://twitter.com/Zebrocoin<br />
 Instagram: https://instagram.com/Zebrocoin<br />
-LinkedIn: https://linkedin.com/in/Zebrocoin
+LinkedIn: https://linkedin.com/in/Zebrocoin<br />
 Discord: https://discord.com/channels/790861106511085591<br />
 Discord Invite Link: https://discord.gg/d6hAEbU8CG<br />
 Reddit: https://www.reddit.com/r/Zebrocoin/<br />
