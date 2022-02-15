@@ -52,7 +52,8 @@ YouTube: https://www.youtube.com/channel/UCiRxXQ5VtpRY6IilUcvatjQ
 # Repositories
 GitHub: https://github.com/ZebroTech/ZebroCoin
 
-# Featured InICOList: https://icolink.com/ico-zebrocoin.html<br />
+# Featured InICOList: 
+https://icolink.com/ico-zebrocoin.html<br />
 ICO Holder: https://icoholder.com/en/zebrocoin-1006234<br />
 FundICO: https://foundico.com/ico/zebrocoin.html<br />
 Coin Alpha: https://coinalpha.app/coin/0x89c4434119b237922069673439c35f90025563c9<br />
