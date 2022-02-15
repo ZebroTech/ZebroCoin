@@ -16,33 +16,33 @@ https://zebrocart.com<br />
 https://zebrotech.in
 
 # Markets
-https://xeggex.com/market/ZEBRO_USDT
-https://xeggex.com/market/ZEBRO_BTC
-https://xeggex.com/market/ZEBRO_BNB
-https://xeggex.com/market/ZEBRO_DOGE
+https://xeggex.com/market/ZEBRO_USDT<br />
+https://xeggex.com/market/ZEBRO_BTC<br />
+https://xeggex.com/market/ZEBRO_BNB<br />
+https://xeggex.com/market/ZEBRO_DOGE<br />
 https://xeggex.com/market/ZEBRO_PHOENIX
 
 
 # Pools
-https://xeggex.com/pool/ZEBRO_USDC
-https://xeggex.com/pool/ZEBRO_ETH
-https://xeggex.com/pool/ZEBRO_TRX
-https://xeggex.com/pool/ZEBRO_LTC
-https://xeggex.com/pool/ZEBRO_XGX
+https://xeggex.com/pool/ZEBRO_USDC<br />
+https://xeggex.com/pool/ZEBRO_ETH<br />
+https://xeggex.com/pool/ZEBRO_TRX<br />
+https://xeggex.com/pool/ZEBRO_LTC<br />
+https://xeggex.com/pool/ZEBRO_XGX<br />
 https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x89c4434119b237922069673439c35f90025563c9
 
 # Announcements
 BitcoinTalk: https://bitcointalk.org/index.php?topic=5357796
 
 # Socials
-Twitter: https://twitter.com/Zebrocoin
-Instagram: https://instagram.com/Zebrocoin
+Twitter: https://twitter.com/Zebrocoin<br />
+Instagram: https://instagram.com/Zebrocoin<br />
 LinkedIn: https://linkedin.com/in/Zebrocoin
-Discord: https://discord.com/channels/790861106511085591
-Discord Invite Link: https://discord.gg/d6hAEbU8CG
-Reddit: https://www.reddit.com/r/Zebrocoin/
-Telegram Channel Zebrocoin: https://t.me/Zebrocoin 
-Telegram Chat ZebroTalk: https://t.me/ZebroTalk  
+Discord: https://discord.com/channels/790861106511085591<br />
+Discord Invite Link: https://discord.gg/d6hAEbU8CG<br />
+Reddit: https://www.reddit.com/r/Zebrocoin/<br />
+Telegram Channel Zebrocoin: https://t.me/Zebrocoin <br />
+Telegram Chat ZebroTalk: https://t.me/ZebroTalk  <br />
 Facebook: https://www.facebook.com/Zebrocoin
 
 # Blogs
@@ -53,5 +53,7 @@ YouTube: https://www.youtube.com/channel/UCiRxXQ5VtpRY6IilUcvatjQ
 
 # Repositories
 GitHub: https://github.com/ZebroTech/ZebroCoin
+
+License: MIT License
 
 
