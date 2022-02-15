@@ -52,5 +52,21 @@ YouTube: https://www.youtube.com/channel/UCiRxXQ5VtpRY6IilUcvatjQ
 # Repositories
 GitHub: https://github.com/ZebroTech/ZebroCoin
 
+# Featured InICOList: https://icolink.com/ico-zebrocoin.html
+ICO Holder: https://icoholder.com/en/zebrocoin-1006234
+FundICO: https://foundico.com/ico/zebrocoin.html
+Coin Alpha: https://coinalpha.app/coin/0x89c4434119b237922069673439c35f90025563c9
+TheBitTimes: https://thebittimes.com/coin-ZEBRO-BSC.html
+Nomics: https://nomics.com/assets/zebro-zebrocoin
+CoinPaprika: https://coinpaprika.com/coin/zebro-zebrocoin
+Blockspot.io: https://blockspot.io/coin/zebrocoin/
+CoinMarketCap: Coming Soon...
+CoinGecko: Coming Soon...
+
+# Interviews
+BitCourier: https://bitcourier.co.uk/news/zebrocoin-interview
+
+# Press Release
+
 # Licensed Under
 MIT License
