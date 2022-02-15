@@ -5,9 +5,9 @@ Multi-chain utility token for ecommerce payment and DeFi.
 Also P2P digital payment system with close to zero transaction fee without any central authority.
 
 # Token Chains
-Binance Smart Chain BEP20
-Matic/Polygon Chain
-Fantom Opera Chain
+Binance Smart Chain BEP20<br />
+Matic/Polygon Chain<br />
+Fantom Opera Chain<br />
 Phoenix Chain ERC20
 
 # Websites
