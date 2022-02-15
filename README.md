@@ -54,6 +54,5 @@ YouTube: https://www.youtube.com/channel/UCiRxXQ5VtpRY6IilUcvatjQ
 # Repositories
 GitHub: https://github.com/ZebroTech/ZebroCoin
 
-Licensed Under: MIT License
-
-
+# Licensed Under
+MIT License
