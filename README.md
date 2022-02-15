@@ -24,11 +24,9 @@ https://xeggex.com/market/ZEBRO_PHOENIX
 
 
 # Pools
-https://xeggex.com/pool/ZEBRO_USDC<br />
-https://xeggex.com/pool/ZEBRO_ETH<br />
-https://xeggex.com/pool/ZEBRO_TRX<br />
-https://xeggex.com/pool/ZEBRO_LTC<br />
 https://xeggex.com/pool/ZEBRO_XGX<br />
+https://xeggex.com/pool/ZEBRO_USDC<br />
+https://xeggex.com/pool/ZEBRO_TRX<br />
 https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x89c4434119b237922069673439c35f90025563c9
 
 # Announcements
