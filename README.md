@@ -11,8 +11,8 @@ Fantom Opera Chain
 Phoenix Chain ERC20
 
 # Websites
-https://zebrocoin.info
-https://zebrocart.com
+https://zebrocoin.info<br />
+https://zebrocart.com<br />
 https://zebrotech.in
 
 # Markets
