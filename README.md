@@ -4,18 +4,18 @@
 Multi-chain utility token for ecommerce payment and DeFi. <br />
 Also P2P digital payment system with close to zero transaction fee without any central authority.
 
-# Token Chains
+## Token Chains
 Binance Smart Chain BEP20: https://bscscan.com/token/0x89c4434119b237922069673439c35f90025563c9 (Main Chain)<br />
 Matic/Polygon Chain: https://polygonscan.com/token/0x89c4434119b237922069673439c35f90025563c9<br />
 Fantom Opera Chain: https://ftmscan.com/token/0x89c4434119b237922069673439c35f90025563c9<br />
 Phoenix Chain ERC20: https://phoenixplorer.com/token/0x89C4434119b237922069673439C35F90025563C9/
 
-# Websites
+## Websites
 https://zebrocoin.info<br />
 https://zebrocart.com<br />
 https://zebrotech.in
 
-# Markets
+## Markets
 https://xeggex.com/market/ZEBRO_USDT<br />
 https://xeggex.com/market/ZEBRO_BTC<br />
 https://xeggex.com/market/ZEBRO_BNB<br />
@@ -23,16 +23,16 @@ https://xeggex.com/market/ZEBRO_DOGE<br />
 https://xeggex.com/market/ZEBRO_PHOENIX
 
 
-# Pools
+## Pools
 https://xeggex.com/pool/ZEBRO_XGX<br />
 https://xeggex.com/pool/ZEBRO_USDC<br />
 https://xeggex.com/pool/ZEBRO_TRX<br />
 https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x89c4434119b237922069673439c35f90025563c9
 
-# Announcements
+## Announcements
 BitcoinTalk: https://bitcointalk.org/index.php?topic=5357796
 
-# Socials
+## Socials
 Twitter: https://twitter.com/Zebrocoin<br />
 Instagram: https://instagram.com/Zebrocoin<br />
 LinkedIn: https://linkedin.com/in/Zebrocoin<br />
@@ -43,16 +43,16 @@ Telegram Channel Zebrocoin: https://t.me/Zebrocoin <br />
 Telegram Chat ZebroTalk: https://t.me/ZebroTalk  <br />
 Facebook: https://www.facebook.com/Zebrocoin
 
-# Blogs
+## Blogs
 Medium: https://zebrocoin.medium.com/
 
-# Videos
+## Videos
 YouTube: https://www.youtube.com/channel/UCiRxXQ5VtpRY6IilUcvatjQ
 
-# Repositories
+## Repositories
 GitHub: https://github.com/ZebroTech/ZebroCoin
 
-# Featured InICOList: 
+## Featured InICOList: 
 https://icolink.com/ico-zebrocoin.html<br />
 ICO Holder: https://icoholder.com/en/zebrocoin-1006234<br />
 FundICO: https://foundico.com/ico/zebrocoin.html<br />
@@ -64,10 +64,10 @@ Blockspot.io: https://blockspot.io/coin/zebrocoin/<br />
 CoinMarketCap: Coming Soon...<br />
 CoinGecko: Coming Soon...
 
-# Interviews
+## Interviews
 BitCourier: https://bitcourier.co.uk/news/zebrocoin-interview
 
-# Press Release
+## Press Release
 
-# Licensed Under
+## Licensed Under
 MIT License
