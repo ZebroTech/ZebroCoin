@@ -70,4 +70,4 @@ BitCourier: https://bitcourier.co.uk/news/zebrocoin-interview
 ## Press Release
 
 ## Licensed Under
-MIT License
+MIT License https://zebrocoin.mit-license.org
