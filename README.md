@@ -5,29 +5,29 @@ Multi-chain utility token for ecommerce payment and DeFi. <br />
 Also P2P digital payment system with close to zero transaction fee without any central authority.
 
 ## Token Chains
+Zebro Smart Chain (Mainnet Token): https://explorer.zebrocoin.app/accounts<br />
 Binance Smart Chain BEP20: https://bscscan.com/token/0x89c4434119b237922069673439c35f90025563c9 (Main Chain)<br />
 Matic/Polygon Chain: https://polygonscan.com/token/0x89c4434119b237922069673439c35f90025563c9<br />
 Fantom Opera Chain: https://ftmscan.com/token/0x89c4434119b237922069673439c35f90025563c9<br />
 Phoenix Chain ERC20: https://phoenixplorer.com/token/0x89C4434119b237922069673439C35F90025563C9/
 
 ## Websites
-https://zebrocoin.info<br />
-https://zebrocart.com<br />
-https://zebrotech.in
+https://zebrocoin.app
 
 ## Markets
 https://xeggex.com/market/ZEBRO_USDT<br />
 https://xeggex.com/market/ZEBRO_BTC<br />
 https://xeggex.com/market/ZEBRO_BNB<br />
 https://xeggex.com/market/ZEBRO_DOGE<br />
-https://xeggex.com/market/ZEBRO_PHOENIX
 
 
 ## Pools
-https://xeggex.com/pool/ZEBRO_XGX<br />
-https://xeggex.com/pool/ZEBRO_USDC<br />
-https://xeggex.com/pool/ZEBRO_TRX<br />
+https://xeggex.com/pool/ZEBRO_USDT<br />
+https://xeggex.com/pool/ZEBRO_BTC<br />
+https://xeggex.com/pool/ZEBRO_BNB<br />
+https://xeggex.com/pool/ZEBRO_DOGE<br />
 https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x89c4434119b237922069673439c35f90025563c9
+https://fireswap.org/swap?inputCurrency=PHX&outputCurrency=0x89c4434119b237922069673439c35f90025563c9
 
 ## Announcements
 BitcoinTalk: https://bitcointalk.org/index.php?topic=5357796
